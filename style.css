@@ -1,0 +1,23 @@
+
+.title {
+font-size: 40px;
+font-family: Helvetica, sans-serif;
+color: green;
+}
+
+#body {
+padding: 30px;
+}
+
+p.intro {
+	font-size: 18px;
+	color: green;
+	font-family: Helvetica, sans-serif;
+}
+
+ol.list {
+	font-size: 12px;
+	color: green;
+	font-family: Helvetica, sans-serif;
+
+}
